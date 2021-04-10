@@ -1,0 +1,7 @@
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\bin\Debug\DayMinTempSpread.exe.config
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\bin\Debug\DayMinTempSpread.exe
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\bin\Debug\DayMinTempSpread.pdb
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\obj\Debug\DayMinTempSpread.csprojAssemblyReference.cache
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\obj\Debug\DayMinTempSpread.csproj.CoreCompileInputs.cache
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\obj\Debug\DayMinTempSpread.exe
+D:\CSAT\DayMinTempSpread\DayMinTempSpread\obj\Debug\DayMinTempSpread.pdb
